@@ -1,0 +1,14 @@
+{
+  "f1_micro": 0.5611,
+  "f1_macro": 0.5123,
+  "precision_micro": 0.6156,
+  "recall_micro": 0.5155,
+  "precision_at_1": 0.6547,
+  "hamming_loss": 0.0148,
+  "threshold": 0.68,
+  "best_C": 1,
+  "n_tags": 86,
+  "train_time_s": 8.3,
+  "inference_ms_per_question": 0.215,
+  "model_size_mb": 13.5
+}

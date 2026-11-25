@@ -1,0 +1,11 @@
+numpy
+pandas
+scikit-learn>=1.4
+iterative-stratification
+joblib
+matplotlib
+pytest
+jupyter
+# Pour BERT (inutile pour le modèle TF-IDF ; déjà installés sur Google Colab)
+torch
+transformers>=4.40

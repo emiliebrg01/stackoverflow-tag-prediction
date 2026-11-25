@@ -1,0 +1,10 @@
+# Modèles entraînés (re-générables, trop lourds pour Git)
+models/
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+.ipynb_checkpoints/
